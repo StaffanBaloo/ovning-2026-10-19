@@ -23,3 +23,5 @@ Tidigare har jag (Staffan) gjort saker jag tror har risker i en egen branch, och
 Vi missade "closes #5" i PR:en så vi tappade en del av magin. Men det är ju bra att det går att följa ändringar och se vilken PR som hör ihop med vilken issue.
 
 ## Övning 6
+
+Jag tyckte det var OK att få kommentarer på sin kod men det beror ju på hur de är skrivna. De bör ju skrivas som kommentarer på själva koden, inte kodaren ("här är en bugg som du behöver fixa" i stället för "men vad tänkte du med här ditt ålahue").
