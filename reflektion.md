@@ -12,6 +12,8 @@ Problemet här var att vi försökte ändra på samma sak i samma fil. Det hade 
 
 ## Övning 3
 
+Det ser till så att man inte av misstag pushar från main-branchen. Man blir tvungna att hålla koll på teamets kod, så att det blir mer enhetligt
+
 ## Övning 4
 
 ## Övning 5
