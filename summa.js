@@ -1,8 +1,8 @@
 // Summerar alla tal i en lista.
-function f(x) {
-	let s = 0;
-	for (let i = 1; i < x.length; i++) {
-		s = s + x[i];
+function sumlist(list) {
+	let sum = 0;
+	for (let i = 0; i < list.length; i++) {
+		sum = sum + list[i];
 	}
-	return s;
+	return sum;
 }
