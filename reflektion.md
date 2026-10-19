@@ -12,7 +12,7 @@ Problemet här var att vi försökte ändra på samma sak i samma fil. Det hade 
 
 ## Övning 3
 
-Det ser till så att man inte av misstag pushar från main-branchen. Man blir tvungna att hålla koll på teamets kod, så att det blir mer enhetligt
+Det tekniska skyddet mot att skriva till main behövs för att hindra misstag, då det annars är lätt att man råkar arbeta i main i stället för en branch. Att kräva kontroll av andra betyder också att resten av teamet i alla fall har sett koden och har koll på vad den gör.
 
 ## Övning 4
 
