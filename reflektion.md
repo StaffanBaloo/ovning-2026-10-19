@@ -8,6 +8,8 @@ Det blev ingen konflikt eftersom vi jobbade på olika filer. Det visar på att d
 
 ## Övning 2
 
+Problemet här var att vi försökte ändra på samma sak i samma fil. Det hade kunnat undvikas genom att jobba på olika ställen och komma överens innan om vem som gör vad.
+
 ## Övning 3
 
 ## Övning 4
