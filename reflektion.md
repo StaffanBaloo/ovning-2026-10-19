@@ -20,4 +20,6 @@ Tidigare har jag (Staffan) gjort saker jag tror har risker i en egen branch, och
 
 ## Övning 5
 
+Vi missade "closes #5" i PR:en så vi tappade en del av magin. Men det är ju bra att det går att följa ändringar och se vilken PR som hör ihop med vilken issue.
+
 ## Övning 6
