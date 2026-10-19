@@ -16,6 +16,8 @@ Det tekniska skyddet mot att skriva till main behövs för att hindra misstag, d
 
 ## Övning 4
 
+Tidigare har jag (Staffan) gjort saker jag tror har risker i en egen branch, och det kommer jag nog att fortsätta med då det är lättare att bara klippa av en branch än att backa i en befintlig. Farliga saker är t ex att få in hemligheter på github (t ex lösenord i application.properties i ett java-projekt) då de inte går att få bort.
+
 ## Övning 5
 
 ## Övning 6
